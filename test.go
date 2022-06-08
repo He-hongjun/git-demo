@@ -6,5 +6,5 @@ import (
 
 func main() {
 	fmt.Println("git v2 222222")
-	fmt.Println("in dev branch")
+	fmt.Println("in dev to master")
 }
